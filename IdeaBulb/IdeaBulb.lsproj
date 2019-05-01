@@ -1,0 +1,777 @@
+{
+    "lens_id": "6ab7084c-bd49-42e3-a9ea-bcc7d2d8213d",
+    "document_id": "bvFcTNFEeNC3AqQRTkcb",
+    "original_document_id": "nynortloS-UwZY4bBqug",
+    "version": "14",
+    "lastChanged": "1556588848151",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "1"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "0",
+            "patch": "0",
+            "build": "1"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "BulbController"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "Animations"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "IdeaBulb"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "Materials",
+                        "Material"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "Materials",
+                        "Material_2"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "Meshes"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "Meshes",
+                        "Base"
+                    ],
+                    [
+                        "IdeaBulb",
+                        "Meshes",
+                        "Bulb"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "919fe4982afb2fc9b56651abb031ede6",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_raise_your_eyebrows"
+            ],
+            "lens": "Idea Bulb",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1556586253965626:27995"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": ""
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1556586254173599:28095",
+                    "name": "\/system\/\/defaults\/effects\/headbinding\/Occluder.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1556586275639014:28458",
+                    "name": "Files\/File3.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1556586275665363:28471",
+                    "name": "Files\/File4.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1556586275697422:28484",
+                    "name": "Files\/File5",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1556586275897044:28500",
+                    "name": "Files\/File7",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1556586276088058:28571",
+                    "name": "IdeaBulb",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1556586629510016:32211",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1556586253965026:27992",
+                "4": "1556586253965626:27995",
+                "5": "1556586253972772:28028",
+                "6": "1556586276085309:28516",
+                "7": "1556586276085704:28523",
+                "8": "1556586276086828:28547",
+                "9": "1556586650306543:32968"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.mesh"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.mesh"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.lsmat"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.lsmat"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.oprfb"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.fbx"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.oprfb"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "227",
+                        "v": "IdeaBulb.fbx"
+                    },
+                    {
+                        "k": "228",
+                        "v": "..\/AdditionalFiles\/IdeaBulb\/Materials"
+                    },
+                    {
+                        "k": "229",
+                        "v": "..\/AdditionalFiles\/IdeaBulb\/Materials\/Material.lsmat"
+                    },
+                    {
+                        "k": "230",
+                        "v": "..\/AdditionalFiles\/IdeaBulb\/Materials\/Material_2.lsmat"
+                    },
+                    {
+                        "k": "231",
+                        "v": "IdeaBulb_1"
+                    },
+                    {
+                        "k": "232",
+                        "v": "IdeaBulb_1\/Materials"
+                    },
+                    {
+                        "k": "233",
+                        "v": "BulbController.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "227",
+                        "v": "c2ae5aaaead425b55d9f6d99bad84a84"
+                    },
+                    {
+                        "k": "229",
+                        "v": "ed45b873b49b93bee66319ff61cc72fe"
+                    },
+                    {
+                        "k": "230",
+                        "v": "a1b5f630909ba907e896781050f96457"
+                    },
+                    {
+                        "k": "233",
+                        "v": "7b1ca37bec3259d4b98e77428ad8f436"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-04-29T21:10:42",
+                        "name": "Public",
+                        "hash": "f7c206fd9c8799b08c166597c1de874b",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-29T21:41:16",
+                                "name": "BulbController.js",
+                                "hash": "7b1ca37bec3259d4b98e77428ad8f436",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-10T18:23:20",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-10T18:23:20",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-10T18:23:20",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-29T21:03:33",
+                                "name": "IdeaBulb.fbx",
+                                "hash": "c2ae5aaaead425b55d9f6d99bad84a84",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-04-29T21:10:29",
+                                "name": "IdeaBulb_1",
+                                "hash": "deced35555999891b938d280a2bfb02e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-04-29T21:10:29",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-04-29T21:10:34",
+                                        "name": "Materials",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-04-29T21:10:29",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "IdeaBulb",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "10",
+                        "originalId": "18446744073709551615",
+                        "publicId": "227",
+                        "source": "C:\/Users\/Jake\/Desktop\/Snapchat\/Projects\/IdeaBulb\/IdeaBulb.fbx",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Base",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "uid": "1556586275639014:28458",
+                                        "fileId": "3",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Bulb",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "1",
+                                        "uid": "1556586275665363:28471",
+                                        "fileId": "4",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "228",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "uid": "1556586275697422:28484",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "229",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Material_2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "uid": "1556586275897044:28500",
+                                        "fileId": "7",
+                                        "originalId": "8",
+                                        "publicId": "230",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "IdeaBulb",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "15",
+                                "dependency": "1",
+                                "uid": "1556586276088058:28571",
+                                "fileId": "9",
+                                "originalId": "11",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "IdeaBulb_1",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "231",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "232",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BulbController",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1556586629510016:32211",
+                        "fileId": "12",
+                        "originalId": "18446744073709551615",
+                        "publicId": "233",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1556586650306543:32968"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1556586276085309:28516",
+                        "v": {
+                            "prefab": "1556586276088058:28571",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1556586276085309:28516",
+                                    "v": "1556586276085309:28516"
+                                },
+                                {
+                                    "k": "1556586276085704:28523",
+                                    "v": "1556586276085704:28523"
+                                },
+                                {
+                                    "k": "1556586276085981:28527",
+                                    "v": "1556586276085981:28527"
+                                },
+                                {
+                                    "k": "1556586276086828:28547",
+                                    "v": "1556586276086828:28547"
+                                },
+                                {
+                                    "k": "1556586276087104:28551",
+                                    "v": "1556586276087104:28551"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1556586276088058:28571",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1556586276085309:28516"
+                        },
+                        {
+                            "k": [
+                                "Base"
+                            ],
+                            "v": "1556586276085704:28523"
+                        },
+                        {
+                            "k": [
+                                "Base",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1556586276085981:28527"
+                        },
+                        {
+                            "k": [
+                                "Bulb"
+                            ],
+                            "v": "1556586276086828:28547"
+                        },
+                        {
+                            "k": [
+                                "Bulb",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1556586276087104:28551"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
